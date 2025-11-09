@@ -1,0 +1,23 @@
+⧖ ▓D▒E░G█R▓A▒D░E█D▓ ▒F░I█L▓E▒ ░0█3▓ ⧖
+▒C░O█R▓R▒U░P█T▓I▒O░N█ ▓L▒E░V█E▓L▒:░ █7▓5▒%░
+█T▓I▒M░E█S▓T▒A░M█P▓:▒ ░████████
+█S▓T▒A░T█U▓S▒:░ █D▓E▒G░R█A▓D▒I░N█G▓
+
+Fragment 10 (Part 3/5):
+
+Files are corrupting faster than I can document them. Every time I save, something changes.
+
+░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒
+▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░
+
+Code I wrote yesterday looks different today. Variable names shift.
+
+█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░
+░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█
+
+ERROR: E█N▓T▒R░O█P▓Y▒_░C█R▓I▒T░I█C▓A▒L░
+WARNING: D█A▓T▒A░_█L▓O▒S░S█_▓I▒M░M█I▓N▒E░N█T▓
+
+▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█▓▒░█
+
+⧖
